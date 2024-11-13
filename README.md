@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ML & AI models**
 
-- 👯 I’m looking to collaborate on [OpenAI's recent projects, codenamed Strawberry and Orion](https://openai.com/news/)
+- 👯 I’m looking to collaborate on [OpenAI's recent projects, codenamed Strawberry and Orion](https://openai.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnikkantiBormon10](https://github.com/AnikkantiBormon10)
 
