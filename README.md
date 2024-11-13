@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anik kanti Bormon</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=4999&pause=1000&color=495015&center=true&vCenter=true&width=500&height=60&lines=Hare+Krishna+%F0%9F%91%A3%F0%9F%A6%9A%F0%9F%A7%BF%F0%9F%92%99;Hi...%F0%9F%91%8B+I'm+Anik+Kanti+Bormon;Welcome+to+my+Github+profile" alt="Typing SVG" /></a></h1>
+
 <h3 align="center">Currently I'm a student of CSE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikkantibormon10&label=Profile%20views&color=0e75b6&style=flat" alt="anikkantibormon10" /> </p>
