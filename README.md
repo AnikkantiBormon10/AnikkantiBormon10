@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/i/flow/login?redirect_after_login=%2fthe_anik_barman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/i/flow/login?redirect_after_login=%2fthe_anik_barman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anik-barman-955737220/?originalsubdomain=bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anik-barman-955737220/?originalsubdomain=bd" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/anikkantibormon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/anikkantibormon" height="30" width="40" /></a>
-<a href="https://fb.com/anik kanti barman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anik kanti barman" height="30" width="40" /></a>
+<a href="https://twitter.com/@the_anik_barman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@the_anik_barman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anik-barman-955737220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik-barman-955737220" height="30" width="40" /></a>
+<a href="https://kaggle.com/anikkantibormon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anikkantibormon" height="30" width="40" /></a>
+<a href="https://fb.com/anik.barmon.256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anik.barmon.256" height="30" width="40" /></a>
 <a href="https://instagram.com/the__a_n_i_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the__a_n_i_k" height="30" width="40" /></a>
 </p>
 
